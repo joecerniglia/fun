@@ -21,4 +21,4 @@ colorama==0.4.4
 splinter==0.18.1
 requests==2.27.1
 json5==0.9.6
-webbrowser==
+
