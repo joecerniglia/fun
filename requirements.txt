@@ -18,3 +18,7 @@ six==1.15.0               # via cycler, python-dateutil
 sklearn==0.0
 imblearn==0.0
 colorama==0.4.4
+splinter==0.18.1
+requests==2.27.1
+json5==0.9.6
+webbrowser==
